@@ -1,0 +1,52 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+
+}
+
+#homeHeader {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+#contactHeader {
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+
+#aboutHeader {
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    width: 300px;
+    padding: 50px;
+    border: 15px solid green;
+    margin: 20px;
+
+}
+#navContainer{
+    font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+ border: dotted 3px rgb(3, 0, 10);
+  width: 100%;
+  display:flex;
+  justify-content: center;
+
+
+}
+   
+nav {
+    border: red; 
+    border-radius: blue;
+    width: 80%;
+display: flex;
+justify-content: space-around;
+}
+
